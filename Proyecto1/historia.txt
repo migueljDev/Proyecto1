@@ -1,8 +1,35 @@
-Esta es la historia de miguel joaquin pereira Martinez
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Revista</title>
+    <link rel="stylesheet" href="estilos.css">
 
+</head>
+<body>
 
-miguel tiene 28 anos y nacio en venezuela
+   
+    <header>
+        <h1>Mi Revista</h1>
+        <p>Bienvenidos a la mejor revista del mundo</p>
+    </header>
 
-anadimos una parte nueva. veamos a ver
+    <!-- Artículo 1 -->
+    <article>
+        <h2>Título del Artículo 1</h2>
+        <img src="imagen1.jpg" alt="Imagen del Artículo 1">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum dui ut elit tincidunt, nec blandit lorem sodales.</p>
+    </article>
 
-otra parte para agregar 
+    <!-- Artículo 2 -->
+    <article>
+        <h2>Título del Artículo 2</h2>
+        <img src="imagen2.jpg" alt="Imagen del Artículo 2">
+        <p>Integer at odio vitae eros vestibulum fermentum sed nec elit. Aliquam erat volutpat.</p>
+    </article>
+
+    
+
+</body>
+</html>
